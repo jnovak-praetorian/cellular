@@ -139,3 +139,9 @@ Note: The Ki above has been redacted for privacy reasons.
 
 ## 2G/GSM Setup
 
+The setup for YateBTS has been documented in many different locations. The following guides all describe setup for 2G/GSM, and I would recommend following the first guide with the SIM programmed in the last section.
+
+* [SDR-101/running_yate_bts_with_bladerf_on_ubuntu_14.04.md](https://github.com/samatt/SDR-101/blob/master/running_yate_bts_with_bladerf_on_ubuntu_14.04.md)
+* [Setting up Yate and YateBTS with the bladeRF](https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF)
+* [SubversiveBTS](https://github.com/strcpyblog/SubversiveBTS)
+
